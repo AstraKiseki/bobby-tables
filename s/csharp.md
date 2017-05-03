@@ -1,7 +1,7 @@
 C\#
 ===
 
-From the [C# Online](http://en.csharp-online.net/) wiki page [ASP.NET Security Hacks--Avoiding SQL Injection](http://en.csharp-online.net/ASP.NET_Security_Hacks%E2%80%94Avoiding_SQL_Injection)
+From the [C# Online](https://web.archive.org/web/20100209182834/http://en.csharp-online.net/Main%28%29) wiki page [ASP.NET Security Hacks--Avoiding SQL Injection](https://web.archive.org/web/20121230034810/http://en.csharp-online.net/ASP.NET_Security_Hacks%E2%80%94Avoiding_SQL_Injection)
 
 
     SqlCommand userInfoQuery = new SqlCommand(
